@@ -32,4 +32,4 @@ Not strictly software, but related:
 
 ![Twitter icon](Icons/Twitter.png) [@a_elmayyah](https://twitter.com/a_elmayyah)
 
-![LinkedIn icon](Icons/LinkedIn.png) [aelmayyah](https://www.linkedin.com/in/aelmayyah/)https://www.linkedin.com/in/aelmayyah/
+![LinkedIn icon](Icons/LinkedIn.png) [aelmayyah](https://www.linkedin.com/in/aelmayyah/)
