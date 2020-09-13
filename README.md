@@ -1,15 +1,15 @@
-## Hello! 👋
+# Hello! 👋
 
-I am Ahmed Elmayyah, a senior computer science student at the Faculty of Computer and Information Science, Ain Shams University. Currently working as a Cybersecurity Engineer at [MNZ Technology Solutions](https://mnztechnology.com/). I am also an [eCRE](https://www.elearnsecurity.com/certification/ecre/).
+I am Ahmed Elmayyah, a senior computer science student at Ain Shams University. Currently working as a Cybersecurity Engineer at [MNZ Technology Solutions](https://mnztechnology.com/). I am also an [eCRE](https://www.elearnsecurity.com/certification/ecre/).
 
 
 I like cycling, progressive rock, videogames, and computers.
 
 That's pretty much all there is to it 😃.
 
-### My work
+## My work
 
-I usually like to tinker with low level programming, linux, and hardware and stuff. Here's some of the work I am proud of, in no particular order: 
+I usually like to tinker with low level programming, Linux, and hardware and stuff. Here's some of the work I am proud of, in no particular order: 
 
 
 - Check out some of my [Bash Snippets](https://github.com/Satharus/Bash-Snippets).
@@ -24,7 +24,13 @@ Not strictly software, but related:
 - Open Source Community [FCIS Linux Workshop 2019 content](https://github.com/Satharus/OSC19-Linux-Workshop-Sessions).
 
 
-### Reach me @
+## My Blog
+
+- [Initial guide to get into Cybersecurity](https://satharus.wordpress.com/2019/12/02/the-art-of-cybersecurity/)
+- [Cybersecurity Writeups](https://satharus.wordpress.com/category/tech-cs/cybersecurity/writeup/)
+- [Free Software Banter](https://satharus.wordpress.com/category/tech-cs/open-source/)
+
+## Reach me @
 
 ![Gmail icon](Icons/Gmail.png) [a.elmayyah@gmail.com](mailto:a.elmayyah@gmail.com)
 
