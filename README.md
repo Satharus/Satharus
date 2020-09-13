@@ -32,10 +32,10 @@ Not strictly software, but related:
 
 ## Reach me @
 
-![Gmail icon](Icons/Gmail.png) [a.elmayyah@gmail.com](mailto:a.elmayyah@gmail.com)
+![Gmail icon](https://github.com/Satharus/Satharus/blob/master/Icons/Gmail.png) [a.elmayyah@gmail.com](mailto:a.elmayyah@gmail.com)
 
-![Blog icon](Icons/Satharus.png) [My Personal Blog](https://satharus.wordpress.com)
+![Blog icon](https://github.com/Satharus/Satharus/blob/master/Icons/Satharus.png) [My Personal Blog](https://satharus.wordpress.com)
 
-![Twitter icon](Icons/Twitter.png) [@a_elmayyah](https://twitter.com/a_elmayyah)
+![Twitter icon](https://github.com/Satharus/Satharus/blob/master/Icons/Twitter.png) [@a_elmayyah](https://twitter.com/a_elmayyah)
 
-![LinkedIn icon](Icons/LinkedIn.png) [aelmayyah](https://www.linkedin.com/in/aelmayyah/)
+![LinkedIn icon](https://github.com/Satharus/Satharus/blob/master/Icons/LinkedIn.png) [aelmayyah](https://www.linkedin.com/in/aelmayyah/)
