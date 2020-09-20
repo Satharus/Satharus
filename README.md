@@ -20,6 +20,7 @@ I usually like to tinker with low level programming, Linux, and hardware and stu
 
 Not strictly software, but related: 
 
+- [My dot files](https://github.com/Satharus/dotfiles).
 - [EOI 2019 Competitive Programming Sessions](https://github.com/Satharus/EOI-Preparation-Sessions) for middle schoolers.
 - Open Source Community [FCIS Linux Workshop 2019 content](https://github.com/Satharus/OSC19-Linux-Workshop-Sessions).
 
