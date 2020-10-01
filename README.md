@@ -31,6 +31,12 @@ Not strictly software, but related:
 - [Cybersecurity Writeups](https://satharus.wordpress.com/category/tech-cs/cybersecurity/writeup/)
 - [Free Software Banter](https://satharus.wordpress.com/category/tech-cs/open-source/)
 
+## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
+
+[![Satahrus' github stats](https://github-readme-stats.vercel.app/api?username=Satharus&hide=stars&show_icons=true&theme=nord&include_all_commits=true&count_private=true)](https://github.com/Satharus?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&langs_count=6&layout=compact&theme=nord)](https://github.com/Satharus?tab=repositories)
+
 ## Reach me @
 
 ![Gmail icon](https://github.com/Satharus/Satharus/blob/master/Icons/Gmail.png) [a.elmayyah@gmail.com](mailto:a.elmayyah@gmail.com)
