@@ -3,13 +3,34 @@
 I am Ahmed Elmayyah, a senior computer science student at Ain Shams University. Currently working as a Cybersecurity Engineer at [MNZ Technology Solutions](https://mnztechnology.com/). I am also an [eCRE](https://www.elearnsecurity.com/certification/ecre/).
 
 
-I like cycling, progressive rock, videogames, and computers.
+I like cycling, progressive rock, videogames, and computers. Currently, I am living in Cairo, Egypt.
 
 That's pretty much all there is to it 😃.
 
 ## My work
 
-I usually like to tinker with low level programming, Linux, and hardware and stuff. Here's some of the work I am proud of, in no particular order: 
+[<img align="left" alt="ViM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />]()
+[<img align="left" alt="linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" />]()
+[<img align="left" alt="Windows" width="26px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2d83d34a-b844-4fda-8550-438365b03c70/d5cki5j-bc735099-7ef7-4389-8e7a-4e0151873a13.png/v1/fill/w_1121,h_1228,q_75,strp/new_windows_logo_vector_by_themonotm-d5cki5j.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvaS8yZDgzZDM0YS1iODQ0LTRmZGEtODU1MC00MzgzNjViMDNjNzAvZDVja2k1ai1iYzczNTA5OS03ZWY3LTQzODktOGU3YS00ZTAxNTE4NzNhMTMucG5nIiwid2lkdGgiOiI8PTExMjEiLCJoZWlnaHQiOiI8PTEyMjgifV1dfQ.SA71t3h1hEx3l3XijiED-DWT--FnzNZYJ5e5MD3FK54" />]()
+[<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+
+[<img align="left" alt="C" width="32px" src="https://pngimg.com/uploads/letter_c/letter_c_PNG22.png" />]()
+[<img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />]()
+[<img align="left" alt="Qt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" />]()
+[<img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/128x128.png" />]()
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
+[<img align="left" alt="arduino" width="26px" src="https://www.redbytes.in/wp-content/uploads/2018/04/arduino-1-logo-png-transparent.png" />]()
+[<img align="left" alt="PIC" width="26px" src="https://www.microchip.com/en-us/about/legal-information/microchip-trademarks/_jcr_content/root/responsivegrid/container_758173909/image_1193914355.coreimg.png/1594177816975/microchip-round-logo.png" />]()
+
+
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+[<img align="left" alt="Git" width="26px" src="https://blog.novatec-gmbh.de/wp-content/uploads/2013/07/logo-git.png" />]()
+
+
+</br>
+</br>
+
+I usually like to tinker with low level programming, reverse engineering, Linux, and hardware and stuff. Here's some of the work I am proud of, in no particular order: 
 
 
 - Check out some of my [Bash Snippets](https://github.com/Satharus/Bash-Snippets).
@@ -33,16 +54,18 @@ Not strictly software, but related:
 
 ## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![Satahrus' github stats](https://github-readme-stats.vercel.app/api?username=Satharus&hide=stars&show_icons=true&theme=nord&include_all_commits=true&count_private=true)](https://github.com/Satharus?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&langs_count=6&layout=compact&theme=nord)](https://github.com/Satharus?tab=repositories)
+[![Satharus's github stats](https://github-readme-stats.vercel.app/api?username=Satharus&hide=stars&show_icons=true&theme=nord&include_all_commits=true&count_private=true)](https://github.com/Satharus?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&langs_count=6&layout=compact&theme=nord)](https://github.com/Satharus?tab=repositories)
+
+
+</br>
+
 
 ## Reach me @
 
-![Gmail icon](https://github.com/Satharus/Satharus/blob/master/Icons/Gmail.png) [a.elmayyah@gmail.com](mailto:a.elmayyah@gmail.com)
+[<img align="left" alt="Satharus | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:a.elmayyah@gmail.com)
+[<img align="left" alt="Satharus | Personal Blog" width="30px" src="https://satharus.files.wordpress.com/2019/12/cropped-blog-of-satharus-black.png?w=32" />](https://satharus.wordpress.com/)
+[<img align="left" alt="Satharus | Twitter" width="30px" src="https://abs.twimg.com/favicons/twitter.ico" />](https://twitter.com/a_elmayyah)
+[<img align="left" alt="Satharus | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/aelmayyah/)
 
-![Blog icon](https://github.com/Satharus/Satharus/blob/master/Icons/Satharus.png) [My Personal Blog](https://satharus.wordpress.com)
-
-![Twitter icon](https://github.com/Satharus/Satharus/blob/master/Icons/Twitter.png) [@a_elmayyah](https://twitter.com/a_elmayyah)
-
-![LinkedIn icon](https://github.com/Satharus/Satharus/blob/master/Icons/LinkedIn.png) [aelmayyah](https://www.linkedin.com/in/aelmayyah/)
+</br>
