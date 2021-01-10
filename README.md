@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am Ahmed Elmayyah (AKA Satharus in some places), a senior computer systems student at Ain Shams University. Currently working as a DFIR Engineer and Purple-Teamer [](). I am also an [eCRE](https://www.elearnsecurity.com/certification/ecre/). 
+I am Ahmed Elmayyah (AKA Satharus in some places), a senior computer systems student at Ain Shams University. Currently working as a DFIR Engineer and Purple-Teamer at [Cyber Castle](https://www.cybercastle.io/). I am also an [eCRE](https://www.elearnsecurity.com/certification/ecre/). 
 
 
 I like cycling, progressive rock, videogames([add me on Steam](https://steamcommunity.com/id/Satharus/)), electronics and hardware, and computers. Currently, I am living in Cairo, Egypt.
