@@ -67,8 +67,8 @@ Not strictly software, but related:
 ## Reach me @
 
 [<img align="left" alt="Satharus | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:a.elmayyah@gmail.com)
-[<img align="left" alt="Satharus | Personal Blog" width="30px" src="https://satharus.files.wordpress.com/2019/12/cropped-blog-of-satharus-black.png?w=32" />](https://satharus.wordpress.com/)
-[<img align="left" alt="Satharus | Twitter" width="30px" src="https://abs.twimg.com/favicons/twitter.ico" />](https://twitter.com/a_elmayyah)
+[<img align="left" alt="Satharus | Personal Blog" width="30px" src="https://satharus.github.io/assets/favicon-32x32.png" />](https://satharus.wordpress.com/)
+[<img align="left" alt="Satharus | Twitter" width="30px" src="https://abs.twimg.com/favicons/twitter.ico" />](https://twitter.com/aelmayyah)
 [<img align="left" alt="Satharus | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/aelmayyah/)
 
 </br>
