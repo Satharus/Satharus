@@ -51,9 +51,9 @@ Not strictly software, but related:
 
 ## My Blog
 
-- [Initial guide to get into Cybersecurity](https://satharus.wordpress.com/2019/12/02/the-art-of-cybersecurity/)
-- [Cybersecurity Writeups](https://satharus.wordpress.com/category/tech-cs/cybersecurity/writeup/)
-- [Free Software Banter](https://satharus.wordpress.com/category/tech-cs/open-source/)
+- [Initial guide to get into Cybersecurity](https://satharus.me/cybersecurity/2019/12/02/the_art_of_cybersecurity.html)
+- [Cybersecurity Writeups](https://satharus.me/archive.html?tag=Writeup)
+- [Free Software Banter](https://satharus.me/archive.html?tag=FOSS)
 
 ## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
@@ -67,7 +67,7 @@ Not strictly software, but related:
 ## Reach me @
 
 [<img align="left" alt="Satharus | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:a.elmayyah@gmail.com)
-[<img align="left" alt="Satharus | Personal Blog" width="30px" src="https://satharus.github.io/assets/favicon-32x32.png" />](https://satharus.wordpress.com/)
+[<img align="left" alt="Satharus | Personal Blog" width="30px" src="https://satharus.me/assets/favicon-32x32.png" />](https://satharus.me/)
 [<img align="left" alt="Satharus | Twitter" width="30px" src="https://abs.twimg.com/favicons/twitter.ico" />](https://twitter.com/aelmayyah)
 [<img align="left" alt="Satharus | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/aelmayyah/)
 
