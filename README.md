@@ -58,7 +58,7 @@ Not strictly software, but related:
 ## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Satharus's github stats](https://github-readme-stats.vercel.app/api?username=Satharus&hide=stars&show_icons=true&theme=nord&include_all_commits=true&count_private=true)](https://github.com/Satharus?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&exclude_repo=SecurityPackage,Image-quantization,satharus.me.old,satharus.me&langs_count=6&layout=compact&theme=nord)](https://github.com/Satharus?tab=repositories)
+[![Satharus's github stats](https://github-readme-stats.vercel.app/api?username=Satharus&show_icons=true&theme=nord&include_all_commits=true&count_private=true,)](https://github.com/Satharus?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&langs_count=6&layout=compact&theme=nord&hide=html,javascript,scss&exclude_repo=SecurityPackage,Image-quantization)](https://github.com/Satharus?tab=repositories)
 
 
 </br>
