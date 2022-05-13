@@ -63,6 +63,10 @@ Not strictly software, but related:
 
 </br>
 
+<p><a href="https://github.com/Satharus?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Satharus&amp;show_icons=true&amp;theme=gruvbox&amp;include_all_commits=true&amp;count_private=true" alt="Satharus's github stats"></a> <a href="https://github.com/Satharus?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&amp;langs_count=6&amp;layout=compact&amp;theme=gruvbox&amp;hide=html,javascript,scss&amp;exclude_repo=SecurityPackage,Image-quantization" alt="Top Langs"></a></p>
+
+</br>
+
 
 ## Reach me @
 
