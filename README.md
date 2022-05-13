@@ -57,13 +57,7 @@ Not strictly software, but related:
 
 ## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Satharus's github stats](https://github-readme-stats.vercel.app/api?username=Satharus&show_icons=true&theme=nord&include_all_commits=true&count_private=true)](https://github.com/Satharus?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&langs_count=6&layout=compact&theme=nord&hide=html,javascript,scss&exclude_repo=SecurityPackage,Image-quantization)](https://github.com/Satharus?tab=repositories)
-
-
-</br>
-
-<p><a href="https://github.com/Satharus?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Satharus&amp;show_icons=true&amp;theme=gruvbox&amp;include_all_commits=true&amp;count_private=true" height="190" alt="Satharus's github stats"></a> <a href="https://github.com/Satharus?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&amp;langs_count=6&amp;layout=compact&amp;theme=gruvbox&amp;hide=html,javascript,scss&amp;exclude_repo=SecurityPackage,Image-quantization" alt="Top Langs"></a></p>
+<p><a href="https://github.com/Satharus?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Satharus&amp;show_icons=true&amp;theme=nord&amp;include_all_commits=true&amp;count_private=true" height="190" alt="Satharus's github stats"></a> <a href="https://github.com/Satharus?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&amp;langs_count=6&amp;layout=compact&amp;theme=nord&amp;hide=html,javascript,scss&amp;exclude_repo=SecurityPackage,Image-quantization" alt="Top Langs"></a></p>
 
 </br>
 
