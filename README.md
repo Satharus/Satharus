@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am Ahmed Elmayyah (AKA Satharus in some places), I graduated from the Faculty of Computer and Information Sciences, Computer Systems Department, Ain Shams University in July 2021. I’m a cybersecurity enthusiast and researcher, tinkerer, and a strong supporter of free/libre software and decentralisation. I am currently working as a DFIR Engineer at [Cyber Castle](https://www.cybercastle.io/). Sometimes I do purple-teaming too. I am also an [eCRE](https://www.elearnsecurity.com/certification/ecre/). 
+I am Ahmed Elmayyah (AKA Satharus in some places), I graduated from the Faculty of Computer and Information Sciences, Computer Systems Department, Ain Shams University in July 2021. I’m a cybersecurity enthusiast and researcher, tinkerer, and a strong supporter of free/libre software and decentralisation. I am currently working as a Sr. DFIR Engineer at [Cyber Castle](https://www.cybercastle.io/). Sometimes I do purple-teaming too. I am also an [eCRE](https://www.elearnsecurity.com/certification/ecre/). 
 
 
 I like cycling, progressive rock, videogames([add me on Steam](https://steamcommunity.com/id/Satharus/)), electronics and hardware, and computers. Currently, I am living in Cairo, Egypt.
