@@ -1,9 +1,9 @@
 # Hello! 👋
 
-I am Ahmed Elmayyah (AKA Satharus in some places), I graduated from the Faculty of Computer and Information Sciences, Computer Systems Department, Ain Shams University in July 2021. I’m a cybersecurity enthusiast and researcher, tinkerer, and a strong supporter of free/libre software and decentralisation. I currently work as a Sr. DFIR Engineer. Sometimes I do purple-teaming too. I am also a [GCFA](https://www.credly.com/badges/a30348b4-b7a3-40ed-ae0b-f6e5bf79a7ec/public_url) and an [eCRE](https://verified.elearnsecurity.com/certificates/5933b8e7-1e4b-4b33-bf39-25d38ad2433c). 
+I am Ahmed Elmayyah (AKA Satharus in some places), I graduated from the Faculty of Computer and Information Sciences, Computer Systems Department, Ain Shams University in July 2021. I’m a cybersecurity enthusiast and researcher, tinkerer, and a strong supporter of free/libre software and decentralisation. I currently work as a Hardware and Firmware Threat Research Analyst at HP. Sometimes I do purple-teaming too. I am also a [GCFA](https://www.credly.com/badges/a30348b4-b7a3-40ed-ae0b-f6e5bf79a7ec/public_url) and an [eCRE](https://verified.elearnsecurity.com/certificates/5933b8e7-1e4b-4b33-bf39-25d38ad2433c). 
 
 
-I like cycling, progressive rock, videogames([add me on Steam](https://steamcommunity.com/id/Satharus/)), electronics and hardware, and computers. Currently, I am living in Cairo, Egypt.
+I like cycling, progressive rock, videogames([add me on Steam](https://steamcommunity.com/id/Satharus/)), electronics and hardware, and computers. Currently, I am currently living in Bristol, England.
 
 "Satharus" was the name of my characters in a couple of RPG games during high school and it just kinda stuck with me.
 
@@ -35,7 +35,7 @@ That's pretty much all there is to it 😃.
 
 I usually like to tinker with low level programming, reverse engineering, Linux, and hardware and stuff. Here's some of the work I am proud of, in no particular order: 
 
-
+- [The 4043](https://satharus.me/archive.html?tag=8Bit+Computer): A Ben Eater-inspired Turing complete 8Bit breadboard computer using TTL chips, presented in a blog post trilogy which explains computer architecture and how it would map to such a project
 - Check out some of my [Bash Snippets](https://github.com/Satharus/Bash-Snippets)
 - Full 128-bit [AES Encryption](https://github.com/Satharus/AES-Encryption) written in x86 assembly without using the AES-NI extension. Alongside is the [NASM template](https://github.com/Satharus/NASM-Template) for writing quick assembly programs
 - The not so [chad shell](https://github.com/Satharus/Chell)
@@ -52,6 +52,9 @@ Not strictly software, but related:
 
 ## My Blog
 
+- [Shield Yourself: Five Tips to Strengthen your Online Security](https://satharus.me/cybersecurity/2023/06/30/shield_yourself_online_security_tips.html)
+- [Utilising EDR Tests to Enhance Threat Detection](https://satharus.me/cybersecurity/2023/03/28/edr_tests.html)
+- [Sysmon EID 27 Bypass](https://satharus.me/cybersecurity/2022/08/17/sysmon-eid-27-bypass.html)
 - [Initial guide to get into Cybersecurity](https://satharus.me/cybersecurity/2019/12/02/the_art_of_cybersecurity.html)
 - [Cybersecurity Writeups](https://satharus.me/archive.html?tag=Writeup)
 - [Free Software Banter](https://satharus.me/archive.html?tag=FOSS)
