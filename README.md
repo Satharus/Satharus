@@ -22,12 +22,12 @@ That's pretty much all there is to it 😃.
 [<img align="left" alt="Qt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" />]()
 [<img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/128x128.png" />]()
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
-[<img align="left" alt="arduino" width="26px" src="https://www.redbytes.in/wp-content/uploads/2018/04/arduino-1-logo-png-transparent.png" />]()
-[<img align="left" alt="PIC" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/microchip-1-logo-png-transparent.png" />]()
+[<img align="left" alt="arduino" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/640px-Arduino_Logo.svg.png" />]()
+[<img align="left" alt="PIC" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/microchip-1-logo-png-transparent.png" />]()
 
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://blog.novatec-gmbh.de/wp-content/uploads/2013/07/logo-git.png" />]()
+[<img align="left" alt="Git" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" />]()
 
 
 </br>
