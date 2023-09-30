@@ -59,9 +59,8 @@ Not strictly software, but related:
 - [Cybersecurity Writeups](https://satharus.me/archive.html?tag=Writeup)
 - [Free Software Banter](https://satharus.me/archive.html?tag=FOSS)
 
-## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
-<p><a href="https://github.com/Satharus?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Satharus&amp;show_icons=true&amp;theme=nord&amp;include_all_commits=true&amp;count_private=true" height="190" alt="Satharus's github stats"></a> <a href="https://github.com/Satharus?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&amp;langs_count=6&amp;layout=compact&amp;theme=nord&amp;hide=html,javascript,scss&amp;exclude_repo=SecurityPackage,Image-quantization" alt="Top Langs"></a></p>
+<p><a href="https://github.com/Satharus?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&amp;langs_count=6&amp;layout=compact&amp;theme=nord&amp;hide=html,javascript,scss&amp;exclude_repo=SecurityPackage,Image-quantization" alt="Top Langs"></a></p>
 
 </br>
 
