@@ -10,7 +10,7 @@ I like cycling, progressive rock, videogames([add me on Steam](https://steamcomm
 
 That's pretty much all there is to it 😃.
 
-## My work
+## My Work
 
 [<img align="left" alt="ViM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />]()
 [<img align="left" alt="linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" />]()
