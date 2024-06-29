@@ -3,7 +3,7 @@
 I am Ahmed Elmayyah (AKA Satharus in some places), I graduated from the Faculty of Computer and Information Sciences, Computer Systems Department, Ain Shams University in July 2021. I’m a cybersecurity enthusiast and researcher, tinkerer, and a strong supporter of free/libre software and decentralisation. I currently work as a Hardware and Firmware Threat Research Analyst at HP. Sometimes I do purple-teaming too. I am also a [GCFA](https://www.credly.com/badges/a30348b4-b7a3-40ed-ae0b-f6e5bf79a7ec/public_url) and an [eCRE](https://verified.elearnsecurity.com/certificates/5933b8e7-1e4b-4b33-bf39-25d38ad2433c). 
 
 
-I like cycling, progressive rock, videogames([add me on Steam](https://steamcommunity.com/id/Satharus/)), electronics and hardware, and computers. Currently, I am currently living in Bristol, England.
+I like cycling, progressive rock, videogames ([add me on Steam](https://steamcommunity.com/id/Satharus/)), electronics and hardware, and computers. Currently, I am currently living in Bristol, England.
 
 "Satharus" was the name of my characters in a couple of RPG games during high school and it just kinda stuck with me.
 
