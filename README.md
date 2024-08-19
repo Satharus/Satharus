@@ -30,7 +30,9 @@ That's pretty much all there is to it 😃.
 [<img align="left" alt="Git" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" />]()
 
 
+<br>
 </br>
+<br>
 </br>
 
 I usually like to tinker with low level programming, reverse engineering, Linux, and hardware and stuff. Here's some of the work I am proud of, in no particular order: 
